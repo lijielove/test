@@ -46,7 +46,7 @@ use data\model\VslGoodsModel;
 use data\model\VslOrderGoodsModel;
 use addons\store\server\Store;
 /**
- * 会员wc
+ * 会员wcsad
  *
  * @author  www.vslai.com
  *
