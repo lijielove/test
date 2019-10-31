@@ -49,7 +49,7 @@ use addons\store\server\Store;
  * 会员wcsad
  *
  * @author  www.vslai.com
- *
+ *sad
  */
 class Member extends BaseController
 {
